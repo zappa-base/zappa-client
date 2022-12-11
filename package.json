@@ -13,7 +13,7 @@
     "@emotion/core": "^10.0.16",
     "animejs": "^3.1.0",
     "color": "^3.1.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "fast-average-color": "^5.2.0",
     "razzle": "^3.0.0",
     "react": "^16.9.0",
